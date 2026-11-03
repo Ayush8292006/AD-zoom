@@ -1,0 +1,1 @@
+import{j as t,m as a}from"./motion-CEYPzRo3.js";const s=({children:i})=>t.jsx(a.div,{initial:{opacity:0,y:8},animate:{opacity:1,y:0},exit:{opacity:0,y:-4},transition:{duration:.28,ease:[.25,.1,.25,1]},className:"w-full",children:i});export{s as P};
